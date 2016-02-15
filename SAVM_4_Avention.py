@@ -1,12 +1,8 @@
 import pandas as pd
 import numpy as np
-import sys
-import glob
-import datetime
-import requests
 import datetime as dt
 import re
-import simplekml
+
 
 from pandas import ExcelWriter
 from pandas import ExcelFile
