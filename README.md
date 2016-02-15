@@ -13,9 +13,9 @@ into a combined and individual list of contacts by AM.  Does the same function f
 for all deals registered to territory accounts.
 
 -SAVM_Geotagging.py - deduplicates raw SAVM account information and uses Google API to download LAT/LON information for
-all accounts so they may be viewed on a map.
+all accounts so they may be viewed in google earth. (Work in Progress)
 
--fy16bookings.py - begins with raw YTD bookings report and performs a variety of analyses including dealcount by am,
-deals by vertical, etc. (Work in progress)
+-fy16bookings.py - begins with raw YTD bookings report and performs a variety of analyses including revenue by subbe,
+penetration rates, dealcount by am, deals by vertical, revenue by vertical, etc. (Work in progress)
 
--SFDC_Import - cleans contact information for exported SFDC contacts (Work in progress)
+-SFDC_Import - cleans contact information for exported SFDC contacts (Work in Progress)
